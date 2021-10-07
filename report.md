@@ -8,7 +8,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-[Issue](https://github.com/KatShushun/D-Project-Money-Transfer/issues/2#issue-1014424547)
+[Некорректный расчёт итогового значения при пополнении счёта клиента](https://github.com/KatShushun/D-Project-Money-Transfer/issues/2#issue-1014424547)
 
 
 ## Описание процесса тестирования
