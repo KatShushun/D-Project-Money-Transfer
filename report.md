@@ -8,14 +8,14 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-[Issues](https://github.com/KatShushun/D-Project-Money-Transfer/issues/2#issue-1014424547)
+[Issue](https://github.com/KatShushun/D-Project-Money-Transfer/issues/2#issue-1014424547)
 
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
 
-[Issues](https://docs.google.com/spreadsheets/d/1iaJoUdNTHYiL8LMhRseECMZlXFpFa2cXVt5PzXCdVGo/edit?usp=sharing)
+[Issue](https://docs.google.com/spreadsheets/d/1iaJoUdNTHYiL8LMhRseECMZlXFpFa2cXVt5PzXCdVGo/edit?usp=sharing)
 
 
 В качестве тестовых данных использовались данные из тестового личного кабинета:
