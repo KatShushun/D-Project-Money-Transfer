@@ -8,14 +8,14 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-<https://shushunovaqa.atlassian.net/browse/IQA-7?atlOrigin=eyJpIjoiNzkxMjc5MGMyYzdjNDcxYzg0ZWNiY2ExOWY5MWJkZGYiLCJwIjoiaiJ9>
+[Issues](https://shushunovaqa.atlassian.net/browse/IQA-7?atlOrigin=eyJpIjoiNzkxMjc5MGMyYzdjNDcxYzg0ZWNiY2ExOWY5MWJkZGYiLCJwIjoiaiJ9)
 
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
 
-<https://docs.google.com/spreadsheets/d/1iaJoUdNTHYiL8LMhRseECMZlXFpFa2cXVt5PzXCdVGo/edit?usp=sharing>
+[Issues](https://docs.google.com/spreadsheets/d/1iaJoUdNTHYiL8LMhRseECMZlXFpFa2cXVt5PzXCdVGo/edit?usp=sharing)
 
 
 В качестве тестовых данных использовались данные из тестового личного кабинета:
