@@ -8,7 +8,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-[Issues](https://shushunovaqa.atlassian.net/browse/IQA-7?atlOrigin=eyJpIjoiNzkxMjc5MGMyYzdjNDcxYzg0ZWNiY2ExOWY5MWJkZGYiLCJwIjoiaiJ9)
+[Issues](https://github.com/KatShushun/D-Project-Money-Transfer/issues/2#issue-1014424547)
 
 
 ## Описание процесса тестирования
