@@ -15,10 +15,14 @@
 
 В процессе тестирования использовались следующие артефакты:
 
-[Issue](https://docs.google.com/spreadsheets/d/1iaJoUdNTHYiL8LMhRseECMZlXFpFa2cXVt5PzXCdVGo/edit?usp=sharing)
+[Тест-кейс](https://docs.google.com/spreadsheets/d/1iaJoUdNTHYiL8LMhRseECMZlXFpFa2cXVt5PzXCdVGo/edit?usp=sharing)
 
 
-В качестве тестовых данных использовались данные из тестового личного кабинета:
+В качестве тестовых данных использовались данные https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md:
+
+текущий баланс счета клиента принимает значение - 2_000_000_000 (два миллиарда рублей)
+сумма перевода на счет - 500_000_000 (пятьсот миллионов рублей)
+итоговая сумма при пополнении счета клиента должна составить 2_500_000_000 руб.
 
 finalBalance = currentBalance + transfer = 2_500_000_000
 
